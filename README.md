@@ -40,14 +40,8 @@ com.example.habittrackermarcel
 
 3. Run on an emulator or physical device (API level 24+ recommended).
 
-## 📷 Screenshots
-
-_Add screenshots here if needed (e.g. app interface, adding habits, saved data)._
 
 ## 📘 Author
 
 Project created by **Marcel** as part of coursework in Android development using Jetpack Compose.
 
-## 🔗 License
-
-This project is for educational purposes. No license applied.
