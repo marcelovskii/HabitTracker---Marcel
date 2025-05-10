@@ -22,12 +22,13 @@ This is a simple mobile application built using **Kotlin** and **Jetpack Compose
 
 ## 📂 Project Structure
 
-com.example.habittrackermarcel
-├── MainActivity.kt
-├── HabitPreferences.kt
-├── HabitViewModel.kt
-└── ui/
-└── MainScreen.kt
+com.example.habittrackermarcel  
+├── MainActivity.kt  
+├── HabitPreferences.kt  
+├── HabitViewModel.kt  
+└── ui/  
+  └── MainScreen.kt  
+
 
 ## 🛠 How to Run
 
